@@ -1,0 +1,33 @@
+// Laços de Repetição
+// While
+// Do While
+// For
+
+//let Valor = 10
+
+//while (10)  {
+
+  //  console.log("Parabéns")
+
+   // Valor ++
+    
+//let Valor = 0
+
+//do {
+
+  //  console.log("parabéns")
+
+//    Valor++
+
+//} while (Valor <=3);
+
+// TESTE FOR
+
+for (let Valor = 0;  Valor <= 3 ; Valor++) {
+
+    console.log("PARABÉNS")
+
+        
+    
+    
+}
