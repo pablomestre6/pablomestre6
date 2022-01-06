@@ -1,0 +1,17 @@
+let valor = 90
+
+let lista_de_compras = ["1 - feijão", "2 - arroz", "3- tomate","4 - carne", "5 - queijo"]
+
+if (valor>=100) { 
+    
+  for (let x = 0; x < 5 ; x++) {
+     
+       console.log(lista_de_compras[x])
+
+   }
+}
+
+else{ 
+    
+    console.log("saldo insuficiente") 
+}
