@@ -1,0 +1,7 @@
+let Nota01 = 8
+let Nota = 9
+let Nota = 5
+
+let media = (Nota01 + Nota02 + Nota03) / 3
+
+console.log(media)
